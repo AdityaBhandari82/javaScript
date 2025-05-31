@@ -27,3 +27,4 @@ console.log("2"==2)//true because it convert value and compare it
 console.log("2"===2);//false in this case it is strict check
 
 console.log(aditya)
+console.log(rahul)
